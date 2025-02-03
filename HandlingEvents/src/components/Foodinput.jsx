@@ -5,7 +5,7 @@ function Foodinput({ handleKeyDown }) {
     <input
       type="text"
       placeholder="Enter food Item here "
-      className={`${styles.Foodinput} active`}
+      className={`${styles.Foodinput} `}
       onKeyDown={handleKeyDown}
     />
   );
