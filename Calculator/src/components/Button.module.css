@@ -1,0 +1,11 @@
+.butContainer{
+  background-color: red;
+  width:auto;
+  height:auto;
+  margin: 10px;
+}
+.button{
+  height:50px;
+  width:50px;
+  margin: 12px;
+}
